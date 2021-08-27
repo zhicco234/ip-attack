@@ -4,12 +4,11 @@
 # 	<=== IP ATTACK ===>
 #
 #  Name 	:  IP Attack
-#  Platform	:  Android Termux
+#  Platform	:  ubuntu
 #  Code		:  Python
 #  Sec.Code	:  8h4i
-#  Coded by	:  Sutariya Parixit
-#  Site 		:  bhai4you.blogspot.com
-#  Github	:  https://github.com/Bhai4You
+#  Coded by	:  Sutariya Parixt
+#  Github	:  https://github.com/zhicco234
 #
 #
 #
